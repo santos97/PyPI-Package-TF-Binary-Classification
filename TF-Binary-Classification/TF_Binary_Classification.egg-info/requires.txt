@@ -1,0 +1,5 @@
+tqdm
+tensorflow
+mathplotlib
+numpy
+cv2

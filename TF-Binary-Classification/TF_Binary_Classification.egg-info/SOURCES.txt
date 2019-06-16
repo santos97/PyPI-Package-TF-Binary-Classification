@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+TF_Binary_Classification/test.py
+TF_Binary_Classification/train.py
+TF_Binary_Classification.egg-info/PKG-INFO
+TF_Binary_Classification.egg-info/SOURCES.txt
+TF_Binary_Classification.egg-info/dependency_links.txt
+TF_Binary_Classification.egg-info/entry_points.txt
+TF_Binary_Classification.egg-info/requires.txt
+TF_Binary_Classification.egg-info/top_level.txt

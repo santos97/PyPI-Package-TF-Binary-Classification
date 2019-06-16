@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: TF-Binary-Classifier
+Version: 1.0.1
+Summary: A Python package to get train and test a model for binary classification.
+Home-page: UNKNOWN
+Author: Santosh Shet
+Author-email: santo.shet@gmail.com
+License: MIT
+Description: #TensorFLow-Binary-Image-Classifier
+        
+        A Python package to get train and test a model for binary classification.
+        
+        ## Usage
+        
+        Following query on terminal will allow you to TRAIN the data.
+        Here c1 and c2 are two categories and has SAME folder name of the data.
+        p is path of folder containing train data image folders.
+        e is number of epoches
+        EX:
+        ```
+        [Train_data] / 
+                [not_human] , [human]
+        
+        train -c1 not_human -c2 human -p c:/downloads/train_data/ -e 3
+        
+        ```
+        Following query on terminal will allow you to TEST the data.
+        Here c1 and c2 are two categories and has SAME folder name of the data.
+        p is path of folder containing test data image folder.
+        EX:
+        ```
+        [Test_data] / 
+                [folder]
+        
+        test -c1 not_human -c2 human -p c:/downloads/test_data/ 
+        
+        ```
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.x
+Classifier: Programming Language :: Python :: 3.x
+Description-Content-Type: text/markdown

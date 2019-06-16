@@ -1,0 +1,4 @@
+[console_scripts]
+test = TF_Binary_Classification.test:main
+train = TF_Binary_Classification.train:main
+
