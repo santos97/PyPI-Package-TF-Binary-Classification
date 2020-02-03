@@ -1,5 +1,6 @@
 # PyPI-Package-TF-Binary-Classification
-This package enables developers to train and test a ready model for binary classification using single line of terminal caoomand. 
+This package enables developers to train and test a ready model for binary classification using single line of terminal cammands. 
+Official Link: https://pypi.org/project/TF-Binary-Classification/
 #TensorFLow-Binary-Image-Classifier
 
 A Python package to get train and test a model for binary classification.
